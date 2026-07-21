@@ -2,8 +2,7 @@ import model.Apple;
 import model.Food;
 import model.Meat;
 import service.ShoppingCart;
-import static model.constants.Colour.GREEN;
-import static model.constants.Colour.RED;
+import static model.constants.Colour.*;
 
 public class Main {
     public static void main(String[] args) {
